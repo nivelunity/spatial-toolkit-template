@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Museo
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  sku: 667adf9b310754c2f1971c7d
+  packageName: Museo de Videojuegos
+  thumbnail: {fileID: 2800000, guid: f2f8b8a20067dff409572cf7393edd8a, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: nz0yjbhl709ju80zmppd0
   scene: {fileID: 102900000, guid: 71cb31f72b53455438704c539195f944, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
